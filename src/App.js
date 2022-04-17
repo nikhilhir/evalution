@@ -8,9 +8,9 @@ function App(){
   return (
     <>
       <Heading/>
-      <Para/>
+      {/* <Para/> */}
       <List/>
-      <Para/>
+      {/* <Para/> */}
       <Heading/>
     </>
   );
